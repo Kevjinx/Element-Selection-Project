@@ -11,8 +11,4 @@ window.addEventListener("DOMContentLoaded", (event) => {
 
   document.body.appendChild(h1Ele)
 
-  console.log('“This is my profile page!”')
-
 });
-
-console.log('“This is my profile page!”')
